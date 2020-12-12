@@ -1,0 +1,9 @@
+thay doi 1: printed by print function by Doan  aaa 
+printed by print function by Doan  thay doi 2
+printed by print function by Doan  thay doi 2
+Thoi gian hien tai la: 2020-09-28 16:16:43.817537
+Thoi gian hien tai la: 2020-09-28 16:18:03.204850
+Thoi gian hien tai la: 2020-09-28 16:25:25.358398
+Thoi gian hien tai la: 2020-09-28 16:26:24.066086
+Thoi gian hien tai la: 2020-09-28 16:26:48.242196
+Thoi gian hien tai la: 2020-10-01 16:58:15.837078

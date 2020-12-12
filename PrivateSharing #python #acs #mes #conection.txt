@@ -1,0 +1,35 @@
+PrivateSharing #python #acs #mes #conection
+
+ connection_example_to_acs_mes.py
+ # NOTE: example for ACS operation
+import sqlalchemy
+import pyodbc
+import pandas as pd
+engine = sqlalchemy.create_engine("mssql+pymssql://reports:reports@vnmacsdb:1433/ACS EE")
+df = pd.read_sql(fr"select distinct workcenter from testlog where test_Date_time >dateadd(dd,-10,getdate())", engine)
+df.head()
+
+
+#NOTE: MES 
+
+def update_os():
+
+    os.environ["PATH"] = "C:\oracle\instantclient_12_2\;"+os.environ["PATH"]
+    #print(os.environ["PATH"])
+    #os.environ["NLS_LANG"] = ".UTF8"
+
+import os
+update_os()
+# 
+import cx_Oracle
+from sqlalchemy import create_engine
+import pandas as pd
+engine = create_engine('oracle://MES_READ:D4ta7061@blqsrv612.dl.net:1521/WPP')
+def mesquery(q):
+
+#     df = pd.read_sql("""
+#     select owner, table_name, column_name, column_id, num_distinct,last_analyzed from all_tab_columns where OWner='WPPUSER' and last_analyzed is not NULL order by last_analyzed desc
+#     """, engine)
+    df = pd.read_sql(q, engine)
+    return df
+	

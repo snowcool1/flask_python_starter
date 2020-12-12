@@ -1,0 +1,19 @@
+Làm việc với GITHUB
+1. git status
+
+2. kiểm tra xem thay đổi trước khi update từ Working copy ==> Staging Area => Local Repository : git diff "tên file thay đổi.extention".
+
+3. Chuyển từ working area sang staging area bằng lệnh: git add: "tên file.extention"
+
+
+4. Chuyển từ Staging Area sang Local Repository ==> git commmit -m "Note command"
+
+5.  git push origin master
+
+*** Lấy cái mới nhất từ GITHUB về máy cục bộ: git pull origin master 
+
+- kiểm tra thư mục có mấy nhánh: git branch 
+
+- tạo nhánh mới: git branch "tên nhánh mới.extention"
+
+- Đổi qua nhánh mới làm việc: git checkout "tên nhánh mới"

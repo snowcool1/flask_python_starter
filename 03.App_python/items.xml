@@ -1,0 +1,294 @@
+
+<ROOT>
+	<LANG Class="I" Type="130" DefinedSize="1" Precision="0" NumericScale="0">E</LANG>
+	<MATNR Class="I" Type="130" DefinedSize="18" Precision="0" NumericScale="0">890003434 </MATNR>
+	<VALIDON Class="I" Type="133" DefinedSize="6" Precision="0" NumericScale="0">12/31/9999</VALIDON>
+	<WERKS Class="I" Type="130" DefinedSize="4" Precision="0" NumericScale="0">3400</WERKS>
+	<DESCRIPTION Class="O" Type="130" DefinedSize="40" Precision="0" NumericScale="0">PART,LOAD CELL MOUNT,MGL93/94 </DESCRIPTION>
+	<LONGDESC Class="O" Type="130" DefinedSize="255" Precision="0" NumericScale="0"> </LONGDESC>
+	<RETURN_CODE Class="O" Type="130" DefinedSize="1" Precision="0" NumericScale="0">0</RETURN_CODE>
+	<REVISION Class="O" Type="130" DefinedSize="2" Precision="0" NumericScale="0">X1</REVISION>
+	<ROHS Class="O" Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </ROHS>
+	<VALIDFROM Class="O" Type="133" DefinedSize="6" Precision="0" NumericScale="0">4/20/2015</VALIDFROM>
+	<VALIDTO Class="O" Type="133" DefinedSize="6" Precision="0" NumericScale="0">12/31/9999</VALIDTO>
+	<WEEE Class="O" Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </WEEE>
+	<ZDMSAMPL Class="T">
+		<meta>
+		<MNFPART Type="130" DefinedSize="18" Precision="0" NumericScale="0"/>
+		<MNFID Type="130" DefinedSize="10" Precision="0" NumericScale="0"/>
+		<MNFNAME Type="130" DefinedSize="30" Precision="0" NumericScale="0"/>
+		<BMATN Type="130" DefinedSize="18" Precision="0" NumericScale="0"/>
+		<ROHS Type="130" DefinedSize="1" Precision="0" NumericScale="0"/>
+		</meta>
+	</ZDMSAMPL>
+	<ZDMSDIR Class="T">
+		<meta>
+		<DIRNUM Type="130" DefinedSize="25" Precision="0" NumericScale="0"/>
+		<DOCTYPE Type="130" DefinedSize="3" Precision="0" NumericScale="0"/>
+		<DOCVER Type="130" DefinedSize="2" Precision="0" NumericScale="0"/>
+		<DOCREV Type="130" DefinedSize="2" Precision="0" NumericScale="0"/>
+		<DOCDESC Type="130" DefinedSize="40" Precision="0" NumericScale="0"/>
+		<VALIDFROM Type="133" DefinedSize="6" Precision="0" NumericScale="0"/>
+		<DOCUMENTCATDESC Type="130" DefinedSize="30" Precision="0" NumericScale="0"/>
+		</meta>
+	</ZDMSDIR>
+	<ZDMSECO Class="T">
+		<item>
+		<CHGNUM Type="130" DefinedSize="12" Precision="0" NumericScale="0">000000016469</CHGNUM>
+		<VALIDFROM Type="133" DefinedSize="6" Precision="0" NumericScale="0">4/20/2015</VALIDFROM>
+		<VALIDTO Type="133" DefinedSize="6" Precision="0" NumericScale="0">11/30/1999</VALIDTO>
+		<CHGDESC Type="130" DefinedSize="40" Precision="0" NumericScale="0">Initial Release-spare parts </CHGDESC>
+		</item>
+		<item>
+		<CHGNUM Type="130" DefinedSize="12" Precision="0" NumericScale="0">000000021560</CHGNUM>
+		<VALIDFROM Type="133" DefinedSize="6" Precision="0" NumericScale="0">2/22/2017</VALIDFROM>
+		<VALIDTO Type="133" DefinedSize="6" Precision="0" NumericScale="0">11/30/1999</VALIDTO>
+		<CHGDESC Type="130" DefinedSize="40" Precision="0" NumericScale="0">replace 129503301 with 019701039 on FRUS</CHGDESC>
+		</item>
+	</ZDMSECO>
+	<ZZMATLIST Class="T">
+		<item>
+		<MANDT Type="130" DefinedSize="3" Precision="0" NumericScale="0">300</MANDT>
+		<MATNR Type="130" DefinedSize="18" Precision="0" NumericScale="0">890003434 </MATNR>
+		<WERKS Type="130" DefinedSize="4" Precision="0" NumericScale="0">3400</WERKS>
+		<MAKTX Type="130" DefinedSize="40" Precision="0" NumericScale="0">PART,LOAD CELL MOUNT,MGL93/94 </MAKTX>
+		<ZZTPRD1 Type="130" DefinedSize="3" Precision="0" NumericScale="0">200</ZZTPRD1>
+		<ZZTPRD2 Type="130" DefinedSize="3" Precision="0" NumericScale="0">290</ZZTPRD2>
+		<ZZPRDLN Type="130" DefinedSize="5" Precision="0" NumericScale="0">P2011</ZZPRDLN>
+		<ZZFCPRD Type="130" DefinedSize="7" Precision="0" NumericScale="0"> </ZZFCPRD>
+		<ZZPRD3 Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </ZZPRD3>
+		<ZZPRDSTATUS Type="130" DefinedSize="5" Precision="0" NumericScale="0">CUR </ZZPRDSTATUS>
+		<ZZHFMPRDSRV Type="130" DefinedSize="5" Precision="0" NumericScale="0">PROD </ZZHFMPRDSRV>
+		<ZZSRVTYPE Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </ZZSRVTYPE>
+		<ZZRDRTYPE Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </ZZRDRTYPE>
+		<ZZCONNECT Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </ZZCONNECT>
+		<ZZRADTYPE Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </ZZRADTYPE>
+		<ZZHRDWR Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </ZZHRDWR>
+		<ZZAUP Type="130" DefinedSize="5" Precision="0" NumericScale="0">SRVP </ZZAUP>
+		<PRDHA Type="130" DefinedSize="18" Precision="0" NumericScale="0">MG93+SPARESPARES </PRDHA>
+		<PRDH1 Type="130" DefinedSize="5" Precision="0" NumericScale="0">MG93+</PRDH1>
+		<PRDH2 Type="130" DefinedSize="5" Precision="0" NumericScale="0">SPARE</PRDH2>
+		<PRDH3 Type="130" DefinedSize="8" Precision="0" NumericScale="0">SPARES </PRDH3>
+		<ZZPRDLIN_T Type="130" DefinedSize="20" Precision="0" NumericScale="0">Mag 9300+ Spares </ZZPRDLIN_T>
+		<ZZPCCLASS Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </ZZPCCLASS>
+		<DISST Type="130" DefinedSize="3" Precision="0" NumericScale="0">001</DISST>
+		<MTART Type="130" DefinedSize="4" Precision="0" NumericScale="0">RC </MTART>
+		<ZZROHS Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </ZZROHS>
+		<ZZROHSDT Type="133" DefinedSize="6" Precision="0" NumericScale="0">11/30/1999</ZZROHSDT>
+		<ZZACSTYPE Type="130" DefinedSize="4" Precision="0" NumericScale="0"> </ZZACSTYPE>
+		<ZZACSSVER Type="130" DefinedSize="20" Precision="0" NumericScale="0"> </ZZACSSVER>
+		<NTGEW Type="14" DefinedSize="16" Precision="13" NumericScale="3">0.386</NTGEW>
+		<BRGEW Type="14" DefinedSize="16" Precision="13" NumericScale="3">0.386</BRGEW>
+		<GEWEI Type="130" DefinedSize="3" Precision="0" NumericScale="0">KG </GEWEI>
+		<ZZDOMDIM Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZDOMDIM>
+		<ZZINTDIM Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZINTDIM>
+		<ZZOSFLAG Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </ZZOSFLAG>
+		<ZZOSDATE Type="133" DefinedSize="6" Precision="0" NumericScale="0">11/30/1999</ZZOSDATE>
+		<LABOR Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </LABOR>
+		<ERSDA Type="133" DefinedSize="6" Precision="0" NumericScale="0">4/20/2015</ERSDA>
+		<ERNAM Type="130" DefinedSize="12" Precision="0" NumericScale="0">BKMORGAN </ERNAM>
+		<LOEKZ Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </LOEKZ>
+		<MATKL Type="130" DefinedSize="9" Precision="0" NumericScale="0">MFGSAINPR</MATKL>
+		<ZZMAST Type="130" DefinedSize="1" Precision="0" NumericScale="0">X</ZZMAST>
+		<VMSTA Type="130" DefinedSize="2" Precision="0" NumericScale="0">Z1</VMSTA>
+		<DWERK Type="130" DefinedSize="4" Precision="0" NumericScale="0">3400</DWERK>
+		<VERSG Type="130" DefinedSize="1" Precision="0" NumericScale="0">1</VERSG>
+		<KONDM Type="130" DefinedSize="2" Precision="0" NumericScale="0">50</KONDM>
+		<KTGRM Type="130" DefinedSize="2" Precision="0" NumericScale="0">94</KTGRM>
+		<MTPOS Type="130" DefinedSize="4" Precision="0" NumericScale="0">NORM</MTPOS>
+		<TAXKM Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </TAXKM>
+		<PRAT1 Type="130" DefinedSize="1" Precision="0" NumericScale="0">X</PRAT1>
+		<ZZPRICE11 Type="14" DefinedSize="16" Precision="15" NumericScale="2">30</ZZPRICE11>
+		<ZZPRICE12 Type="14" DefinedSize="16" Precision="15" NumericScale="2">0</ZZPRICE12>
+		<MMSTA Type="130" DefinedSize="2" Precision="0" NumericScale="0">DD</MMSTA>
+		<MAABC Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </MAABC>
+		<EKGRP Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </EKGRP>
+		<DISPO Type="130" DefinedSize="3" Precision="0" NumericScale="0">P07</DISPO>
+		<DISMM Type="130" DefinedSize="2" Precision="0" NumericScale="0">M3</DISMM>
+		<DISLS Type="130" DefinedSize="2" Precision="0" NumericScale="0">EX</DISLS>
+		<SOBSL Type="130" DefinedSize="2" Precision="0" NumericScale="0"> </SOBSL>
+		<BESKZ Type="130" DefinedSize="1" Precision="0" NumericScale="0">E</BESKZ>
+		<PLIFZ Type="14" DefinedSize="16" Precision="3" NumericScale="0">0</PLIFZ>
+		<WEBAZ Type="14" DefinedSize="16" Precision="3" NumericScale="0">1</WEBAZ>
+		<EISBE Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</EISBE>
+		<MINBE Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</MINBE>
+		<BSTRF Type="14" DefinedSize="16" Precision="13" NumericScale="3">39</BSTRF>
+		<STRGR Type="130" DefinedSize="2" Precision="0" NumericScale="0">YB</STRGR>
+		<MTVFP Type="130" DefinedSize="2" Precision="0" NumericScale="0">YE</MTVFP>
+		<VINT1 Type="18" DefinedSize="2" Precision="0" NumericScale="0">300</VINT1>
+		<VINT2 Type="18" DefinedSize="2" Precision="0" NumericScale="0">300</VINT2>
+		<MISKZ Type="130" DefinedSize="1" Precision="0" NumericScale="0">1</MISKZ>
+		<PERKZ Type="130" DefinedSize="1" Precision="0" NumericScale="0">M</PERKZ>
+		<HERKL Type="130" DefinedSize="3" Precision="0" NumericScale="0">MY </HERKL>
+		<MTVER Type="130" DefinedSize="4" Precision="0" NumericScale="0"> </MTVER>
+		<STAWN Type="130" DefinedSize="17" Precision="0" NumericScale="0">76169999 </STAWN>
+		<LIFNR Type="130" DefinedSize="10" Precision="0" NumericScale="0"> </LIFNR>
+		<LAND1 Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </LAND1>
+		<NAME1 Type="130" DefinedSize="30" Precision="0" NumericScale="0"> </NAME1>
+		<BKLAS Type="130" DefinedSize="4" Precision="0" NumericScale="0">RC00</BKLAS>
+		<LBKUM Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</LBKUM>
+		<SALK3 Type="14" DefinedSize="16" Precision="13" NumericScale="2">0</SALK3>
+		<PEINH Type="14" DefinedSize="16" Precision="5" NumericScale="0">1</PEINH>
+		<STPRS Type="14" DefinedSize="16" Precision="15" NumericScale="4">2.5</STPRS>
+		<WAERS Type="130" DefinedSize="5" Precision="0" NumericScale="0">USD </WAERS>
+		<HKMAT Type="130" DefinedSize="1" Precision="0" NumericScale="0">X</HKMAT>
+		<EKALR Type="130" DefinedSize="1" Precision="0" NumericScale="0">X</EKALR>
+		<NCOST Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </NCOST>
+		<SERNP Type="130" DefinedSize="4" Precision="0" NumericScale="0">DL00</SERNP>
+		<REVLV Type="130" DefinedSize="2" Precision="0" NumericScale="0">X2</REVLV>
+		<ZZCON2003 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2003>
+		<ZZCON2004 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2004>
+		<ZZCON2005 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2005>
+		<ZZCON2006 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2006>
+		<ZZCON2007 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2007>
+		<ZZCON2008 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2008>
+		<ZZSOLBKUM Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZSOLBKUM>
+		<SHZET Type="17" DefinedSize="1" Precision="0" NumericScale="0">0</SHZET>
+		<ZZDEMAND Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZDEMAND>
+		<ZZCON1 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON1>
+		<ZZCON2 Type="14" DefinedSize="16" Precision="13" NumericScale="3">20</ZZCON2>
+		<ZZCON3 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON3>
+		<ZZCON4 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON4>
+		<ZZCON5 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON5>
+		<ZZCON6 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON6>
+		<ZZCON7 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON7>
+		<ZZCON8 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON8>
+		<ZZCON9 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON9>
+		<ZZCON10 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON10>
+		<ZZCON11 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON11>
+		<ZZCON12 Type="14" DefinedSize="16" Precision="13" NumericScale="3">9</ZZCON12>
+		<ZZCON13 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON13>
+		<ZZCON14 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON14>
+		<ZZCON15 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON15>
+		<ZZCON16 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON16>
+		<ZZCON17 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON17>
+		<ZZCON18 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON18>
+		<ZZCON19 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON19>
+		<ZZCON20 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON20>
+		<ZZCON21 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON21>
+		<ZZCON22 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON22>
+		<ZZCON23 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON23>
+		<ZZCON24 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON24>
+		<ZZCONAVG Type="14" DefinedSize="16" Precision="13" NumericScale="3">2.417</ZZCONAVG>
+		<ZZCONSTD Type="14" DefinedSize="16" Precision="13" NumericScale="3">6.112</ZZCONSTD>
+		<ZZCONVI Type="14" DefinedSize="16" Precision="13" NumericScale="3">0.395</ZZCONVI>
+		<ZZDAYS Type="19" DefinedSize="4" Precision="0" NumericScale="0">0</ZZDAYS>
+		<ZZFCST1 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST1>
+		<ZZFCST2 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST2>
+		<ZZFCST3 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST3>
+		<ZZFCST4 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST4>
+		<ZZFCST5 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST5>
+		<ZZFCST6 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST6>
+		<ZZFCST7 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST7>
+		<ZZFCST8 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST8>
+		<ZZFCST9 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST9>
+		<ZZFCST10 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST10>
+		<ZZFCST11 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST11>
+		<ZZFCST12 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZFCST12>
+		<LGFSB Type="130" DefinedSize="4" Precision="0" NumericScale="0">1000</LGFSB>
+		<ABCIN Type="130" DefinedSize="1" Precision="0" NumericScale="0">C</ABCIN>
+		<ZZINVMATL Type="14" DefinedSize="16" Precision="13" NumericScale="2">2.01</ZZINVMATL>
+		<ZZINVLABOR Type="14" DefinedSize="16" Precision="13" NumericScale="2">0.06</ZZINVLABOR>
+		<ZZINVLABORSK Type="14" DefinedSize="16" Precision="13" NumericScale="2">0.06</ZZINVLABORSK>
+		<ZZINVMACHSK Type="14" DefinedSize="16" Precision="13" NumericScale="2">0</ZZINVMACHSK>
+		<ZZINVOHDSK Type="14" DefinedSize="16" Precision="13" NumericScale="2">0.11</ZZINVOHDSK>
+		<ZZINVSUBC Type="14" DefinedSize="16" Precision="13" NumericScale="2">0</ZZINVSUBC>
+		<ZZOVARCOST Type="14" DefinedSize="16" Precision="13" NumericScale="2">0.04</ZZOVARCOST>
+		<ZZRECIV_PACK Type="14" DefinedSize="16" Precision="13" NumericScale="2">0.04</ZZRECIV_PACK>
+		<INSMK Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </INSMK>
+		<ZZGRQTY Type="14" DefinedSize="16" Precision="15" NumericScale="4">0</ZZGRQTY>
+		<ZZLMEIN Type="130" DefinedSize="3" Precision="0" NumericScale="0">ST2</ZZLMEIN>
+		<ZZGRVAL Type="14" DefinedSize="16" Precision="15" NumericScale="4">0</ZZGRVAL>
+		<ZZGRWAERS Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </ZZGRWAERS>
+		<ZZLAPRPD Type="14" DefinedSize="16" Precision="15" NumericScale="4">0</ZZLAPRPD>
+		<BISMT Type="130" DefinedSize="18" Precision="0" NumericScale="0"> </BISMT>
+		<AENNR Type="130" DefinedSize="12" Precision="0" NumericScale="0">000000021560</AENNR>
+		<DATAB Type="133" DefinedSize="6" Precision="0" NumericScale="0">2/23/2017</DATAB>
+		<SUM01 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</SUM01>
+		<LSTPORCPTDT Type="133" DefinedSize="6" Precision="0" NumericScale="0">11/30/1999</LSTPORCPTDT>
+		<MABST Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</MABST>
+		<BSTFE Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</BSTFE>
+		<ZZO_PO_QTY Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZO_PO_QTY>
+		<ZZO_SO_QTY Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZO_SO_QTY>
+		<ZZPE Type="130" DefinedSize="2" Precision="0" NumericScale="0"> </ZZPE>
+		<ZZGRQTYYTD Type="14" DefinedSize="16" Precision="15" NumericScale="4">0</ZZGRQTYYTD>
+		<ZZGRVALYTD Type="14" DefinedSize="16" Precision="15" NumericScale="4">0</ZZGRVALYTD>
+		<ZZMATNRFROHS Type="130" DefinedSize="18" Precision="0" NumericScale="0"> </ZZMATNRFROHS>
+		<KZAUS Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </KZAUS>
+		<AUSDT Type="133" DefinedSize="6" Precision="0" NumericScale="0">11/30/1999</AUSDT>
+		<NFMAT Type="130" DefinedSize="18" Precision="0" NumericScale="0"> </NFMAT>
+		<BERW1 Type="14" DefinedSize="16" Precision="5" NumericScale="1">999.9</BERW1>
+		<BERW2 Type="14" DefinedSize="16" Precision="5" NumericScale="1">999.9</BERW2>
+		<BERW4 Type="14" DefinedSize="16" Precision="5" NumericScale="1">999.9</BERW4>
+		<ZZPRDLIN_H Type="130" DefinedSize="20" Precision="0" NumericScale="0">Magellan 9300 Scanne</ZZPRDLIN_H>
+		<ZZROHSREL Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </ZZROHSREL>
+		<ZZIRQTY Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZIRQTY>
+		<ZZIRVALUE Type="14" DefinedSize="16" Precision="15" NumericScale="4">0</ZZIRVALUE>
+		<FCSTDAYS Type="19" DefinedSize="4" Precision="0" NumericScale="0">0</FCSTDAYS>
+		<SLKZ6 Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </SLKZ6>
+		<SLKZ7 Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </SLKZ7>
+		<NPTARGET_COST Type="14" DefinedSize="16" Precision="17" NumericScale="4">0</NPTARGET_COST>
+		<NPTGTCOST_WAERS Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </NPTGTCOST_WAERS>
+		<NPQUOTE_FLAG Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </NPQUOTE_FLAG>
+		<NPRESP_ENGR Type="130" DefinedSize="18" Precision="0" NumericScale="0"> </NPRESP_ENGR>
+		<NPTOOL_VENDOR Type="130" DefinedSize="10" Precision="0" NumericScale="0"> </NPTOOL_VENDOR>
+		<NPTOOLCOST Type="14" DefinedSize="16" Precision="15" NumericScale="2">0</NPTOOLCOST>
+		<NPTOOLCOST_WAERS Type="130" DefinedSize="5" Precision="0" NumericScale="0"> </NPTOOLCOST_WAERS>
+		<NPPART_TYPE Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </NPPART_TYPE>
+		<NPTOOL_LEADTIME Type="130" DefinedSize="10" Precision="0" NumericScale="0"> </NPTOOL_LEADTIME>
+		<NPSORTKEY1 Type="130" DefinedSize="15" Precision="0" NumericScale="0"> </NPSORTKEY1>
+		<NPSORTKEY2 Type="130" DefinedSize="15" Precision="0" NumericScale="0"> </NPSORTKEY2>
+		<NPSORTKEY3 Type="130" DefinedSize="15" Precision="0" NumericScale="0"> </NPSORTKEY3>
+		<NPREV_LEVEL Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </NPREV_LEVEL>
+		<NPPROC_ENGR Type="130" DefinedSize="2" Precision="0" NumericScale="0"> </NPPROC_ENGR>
+		<NPTGT_VENDOR Type="130" DefinedSize="10" Precision="0" NumericScale="0">0060025969</NPTGT_VENDOR>
+		<NPVENDOR_PART Type="130" DefinedSize="35" Precision="0" NumericScale="0">890003434 </NPVENDOR_PART>
+		<NPQUOTED_COST Type="14" DefinedSize="16" Precision="15" NumericScale="2">0</NPQUOTED_COST>
+		<EBOM Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </EBOM>
+		<NPVEND_NAME Type="130" DefinedSize="20" Precision="0" NumericScale="0">DATALOGIC S.r.l. </NPVEND_NAME>
+		<NOCSTPOQTYYTD Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</NOCSTPOQTYYTD>
+		<PRCTR Type="130" DefinedSize="10" Precision="0" NumericScale="0">1000GMFRS </PRCTR>
+		<ZZWEEEIND Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </ZZWEEEIND>
+		<BSTMI Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</BSTMI>
+		<ZZMFG_POL Type="130" DefinedSize="10" Precision="0" NumericScale="0">OMO </ZZMFG_POL>
+		<MSTAE Type="130" DefinedSize="2" Precision="0" NumericScale="0">ST</MSTAE>
+		<NPDIRECT_PRICING Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </NPDIRECT_PRICING>
+		<NPQUANTITY Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</NPQUANTITY>
+		<MATDOC_CATEGORY Type="130" DefinedSize="30" Precision="0" NumericScale="0">SERVICE </MATDOC_CATEGORY>
+		<LOSGR Type="14" DefinedSize="16" Precision="13" NumericScale="3">20</LOSGR>
+		<COMMODTYPE Type="130" DefinedSize="18" Precision="0" NumericScale="0"> </COMMODTYPE>
+		<KNOCKDOWN Type="130" DefinedSize="20" Precision="0" NumericScale="0"> </KNOCKDOWN>
+		<AUFNR Type="130" DefinedSize="12" Precision="0" NumericScale="0">000100714560</AUFNR>
+		<ZZCON2001 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2001>
+		<ZZCON2002 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2002>
+		<ZZCON2012 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2012>
+		<ZZCON2013 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2013>
+		<ZZCON2014 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2014>
+		<ZZCON2015 Type="14" DefinedSize="16" Precision="13" NumericScale="3">3</ZZCON2015>
+		<ZZCON2016 Type="14" DefinedSize="16" Precision="13" NumericScale="3">0</ZZCON2016>
+		<DISGR Type="130" DefinedSize="4" Precision="0" NumericScale="0">0001</DISGR>
+		<ZREFCOST Type="14" DefinedSize="16" Precision="15" NumericScale="2">0</ZREFCOST>
+		<ZAVGACTCOST Type="14" DefinedSize="16" Precision="13" NumericScale="4">2.35</ZAVGACTCOST>
+		<ZZLTGEN Type="16" DefinedSize="1" Precision="0" NumericScale="0">20</ZZLTGEN>
+		<ZZLTFC Type="16" DefinedSize="1" Precision="0" NumericScale="0">28</ZZLTFC>
+		<ZZCHNG_CNTRL Type="130" DefinedSize="15" Precision="0" NumericScale="0"> </ZZCHNG_CNTRL>
+		<SSOUR Type="130" DefinedSize="4" Precision="0" NumericScale="0"> </SSOUR>
+		<ZZOS Type="130" DefinedSize="6" Precision="0" NumericScale="0"> </ZZOS>
+		<ZHYPLINE Type="130" DefinedSize="50" Precision="0" NumericScale="0">FRS SPARES </ZHYPLINE>
+		<SPART Type="130" DefinedSize="2" Precision="0" NumericScale="0">21</SPART>
+		<ZZGEMS_STATUS Type="130" DefinedSize="3" Precision="0" NumericScale="0"> </ZZGEMS_STATUS>
+		<ZLEADTIME Type="130" DefinedSize="20" Precision="0" NumericScale="0">020 Days </ZLEADTIME>
+		<ZSLOWCATEGORY Type="130" DefinedSize="30" Precision="0" NumericScale="0"> </ZSLOWCATEGORY>
+		<ZSLOWACTION Type="130" DefinedSize="30" Precision="0" NumericScale="0"> </ZSLOWACTION>
+		<ZZMAQ Type="130" DefinedSize="4" Precision="0" NumericScale="0"> </ZZMAQ>
+		<VOLUM Type="14" DefinedSize="16" Precision="13" NumericScale="3">1495</VOLUM>
+		<VOLEH Type="130" DefinedSize="3" Precision="0" NumericScale="0">CCM</VOLEH>
+		<STPRS_GC Type="14" DefinedSize="16" Precision="11" NumericScale="2">0</STPRS_GC>
+		<RGEKZ Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </RGEKZ>
+		<LADGR Type="130" DefinedSize="4" Precision="0" NumericScale="0"> </LADGR>
+		<MTUSE Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </MTUSE>
+		<MTORG Type="130" DefinedSize="1" Precision="0" NumericScale="0"> </MTORG>
+		<ZZMAKTX Type="130" DefinedSize="255" Precision="0" NumericScale="0"> </ZZMAKTX>
+		</item>
+	</ZZMATLIST>
+</ROOT>
